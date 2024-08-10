@@ -16,7 +16,7 @@
   - Home: A screen with text and images that explain what the application is about
   - Quiz Page: A screen with one question, an image resembling the question, and 4 different buttons as options (TouchableOpacity)
 
-#Final Screen:
+# Final Screen:
 ![Screenshot 2024-08-09 at 4 24 50 PM](https://github.com/user-attachments/assets/3d3e2fcf-7fb8-43d5-933b-1e9f5d8b35d7)
 # Wrong Screen:
 ![Screenshot 2024-08-09 at 4 24 18 PM](https://github.com/user-attachments/assets/1f836eef-c0c4-4cdd-a9b3-7adab8fe469a)
