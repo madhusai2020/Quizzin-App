@@ -1,4 +1,4 @@
-# Quizzin: A Quiz Application built using React-Native JavaScript
+# Quizzins: A Quiz Application built using React-Native JavaScript
 
 ## 1) 9 different categories that range from academics to leisure
   - Math, Science, Fruits, History, Basketball, Spanish, Language Arts, Movies, and Coding
