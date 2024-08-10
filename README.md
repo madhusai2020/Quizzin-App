@@ -16,17 +16,17 @@
   - Home: A screen with text and images that explain what the application is about
   - Quiz Page: A screen with one question, an image resembling the question, and 4 different buttons as options (TouchableOpacity)
 
-### Final Screen:
+#Final Screen:
 ![Screenshot 2024-08-09 at 4 24 50 PM](https://github.com/user-attachments/assets/3d3e2fcf-7fb8-43d5-933b-1e9f5d8b35d7)
-### Wrong Screen:
+# Wrong Screen:
 ![Screenshot 2024-08-09 at 4 24 18 PM](https://github.com/user-attachments/assets/1f836eef-c0c4-4cdd-a9b3-7adab8fe469a)
-### Correct Screen:
+# Correct Screen:
 ![Screenshot 2024-08-09 at 4 24 00 PM](https://github.com/user-attachments/assets/60fc1331-abc5-40da-a53a-9fc224421367)
-### Quiz Page:
+# Quiz Page:
 ![Screenshot 2024-08-09 at 4 23 42 PM](https://github.com/user-attachments/assets/e39f7b29-6b55-4413-95fc-74aec85307b2)
-### Quiz Details:
+# Quiz Details:
 ![Screenshot 2024-08-09 at 4 23 24 PM](https://github.com/user-attachments/assets/3ecd8e53-48ad-48ce-a380-9284d12b709c)
-### Catalog:
+# Catalog:
 ![Screenshot 2024-08-09 at 4 22 59 PM](https://github.com/user-attachments/assets/e5afadfc-dfcc-41ff-b372-2b6d643db003)
-### Home:
+# Home:
 ![Screenshot 2024-08-09 at 4 22 35 PM](https://github.com/user-attachments/assets/024043d6-d78a-47ab-a390-be520068eeff)
